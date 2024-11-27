@@ -13,6 +13,6 @@ For example:
 
 PDUs are not equipped with the regular sockets you can find in your house. They are equipped with an international socket called (in the majority of PDUs) C13, C14, C19 and C20
 
-C13 and C14 are the most commun sockets present on PDUs. They are used to connect Switches, Servers, Firewall, etc... C13 is a Female connecter and C14 is the male version.
+C13 and C14 are the most commun sockets present on PDUs. They are used to connect Switches, Servers, Firewall, etc... (10amps) C13 is a Female connecter and C14 is the male version.
 
-C19 and C20 are les present on PDUs they are used fore equipements that need a really high power capacity. C19 is a female connecter and C20 is the male version.
+C19 and C20 are les present on PDUs they are used fore equipements that need a really high power capacity (16amps). C19 is a female connecter and C20 is the male version.
